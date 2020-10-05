@@ -1,0 +1,164 @@
+Terminology in machine learning
+
+
+Problem is to Predict the Salary of the employee with his experience
+
+1.Get the data related to the problem
+	past Salary of employee   experience
+
+
+
+
+2. Pre-processing(manipulate,clean)
+	Is there is any missing?
+	is there any invalid values?
+	is the data has correct format object/string
+
+i want predict person has cancer or not
+	fever     
+	1000
+
+
+3. Train the model
+	1. select the algorithm related to problem
+	2. with the data we have to train the model
+
+
+4 Test the model
+	training(known) data (training score)
+	with unseen(unknown) data (testing score)
+
+
+student	
+	5 questions for training
+
+	testing
+		testing with the same 5 question used in training (training score)
+	testing score
+		if conducted exam with unknown/unseen questions then it is resting score
+
+
+improve model
+
+performance 50% accuracy
+
+we can improve the model to get more accuracy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Target/output/label
+	The value you are predicting is the target  (Salary)
+
+
+Features/Input
+	The value we are taking as for predicting target  (Experience)
+
+
+
+
+
+
+Salary
+	10K,15K,12K,1L,1.5L
+		
+
+
+
+
+
+
+
+
+
+Predict the given email is spam or not?
+	
+	True/False
+	Yes/No
+	1/0
+
+predict the given fruit is apple or mango or lemon ?
+	
+	apple/mango/lemon
+	
+	0 / 1/2
+	
+
+
+
+
+
+
+
+
+
+
+Tesing
+	10 questions
+		correct answers as 7
+
+
+	performance = correct/total question
+		= (7/10 ) * 100
+		70%
+
+
+
+Training the machine/model
+Testing the machine / model
+verifying the performance model
+
+
+
+
+
+
+1. Anaconda software in that we use jupyter notebook
+
+
+1. we will discuss shortcuts and syntax in jupyter notebook
+2. working with simple csv file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

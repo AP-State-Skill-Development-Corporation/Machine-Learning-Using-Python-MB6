@@ -49,8 +49,8 @@ Discussed Concepts:
 *************************
 --->
 
-<!-----
-### Day1 Introduction to Machine Learning (14/Sep/2020)
+
+### Day1 Introduction to Machine Learning (05/Oct/2020)
 
 Discussed Concepts:
 1. What is machine Learning
@@ -60,12 +60,13 @@ Discussed Concepts:
 
 * [ML pdf ](Day-1/MachineLearningwithPython.pdf)
 * [Anaconda installation pdf](Day-1/AnacondaInstallation.pdf)
-* [Notebook](Day-1/Day1_14sep2020.ipynb)
+* [Notebook](Day-1/Day1_05oct2020.ipynb)
 * [Notes.txt](Day-1/notes.txt)
-* [Employee.csv](Day-1/Employee.csv)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/a34ad663070d81aa50fd61d7303fa65fcbd7622c90d034aab45a72953ef651d4)
+* [Employee.csv](Day-1/employee.csv)
+* [Recorded Video pending]()
 
 
+<!-----
 ### Day2 Prediction of RIL revenue by Linear Regression (15/sep/2020)
 
 Discussed Concepts
