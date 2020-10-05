@@ -8,7 +8,7 @@ This repository consists of all the files, resources, and recorded session links
 #### Gotomeeting Link → [[Click Here to Join]](meetingLink) → Meeting Id → 
 --->
 
-#### ![prerequisite](Day-1/Prerequisite.png)
+#### ![prerequisite](Prerequisite.png)
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
