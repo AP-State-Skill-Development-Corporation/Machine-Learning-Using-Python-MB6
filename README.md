@@ -66,7 +66,7 @@ Discussed Concepts:
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/c4789efb0ddc194d67defa8470d972d9ad2c49861d8f4725d5fa9e39fa262b77)
 
 
-<!-----
+
 ### Day2 Prediction of RIL revenue by Linear Regression (15/sep/2020)
 
 Discussed Concepts
@@ -74,12 +74,12 @@ Discussed Concepts
 * Prediction of Salary
 * Prediction Reliance Industry revenue with Jio subscribers
 
-* [Notebook](Day-2/Day2_15sep2020.ipynb)
+* [Notebook](Day-2/Day2_06oct2020.ipynb)
 * [Salary_Data.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/Salary_Data.csv)
-* [Reliance.csv](Day-2/Reliance.csv)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/db84e5ea4ae90ba8efeb8fc66fe91743489eb4994282678e3c26db67da65fb89)
+* [Reliance.csv](Day-2/reliance.csv)
+* [Recorded Video pending]()
 
-
+<!-----
 ### Day3 Multi Linear Regression and Polynomial Features (16/sep/2020)
 
 Discussed Concepts
