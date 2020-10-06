@@ -67,7 +67,7 @@ Discussed Concepts:
 
 
 
-### Day2 Prediction of RIL revenue by Linear Regression (15/sep/2020)
+### Day2 Prediction of RIL revenue by Linear Regression (06/oct/2020)
 
 Discussed Concepts
 1. Linear Regression for
