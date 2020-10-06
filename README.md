@@ -8,6 +8,8 @@ This repository consists of all the files, resources, and recorded session links
 #### Gotomeeting Link → [[Click Here to Join]](meetingLink) → Meeting Id → 
 --->
 
+Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/738433397) → Meeting Id → 738433397
+
 #### ![prerequisite](Prerequisite.png)
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
@@ -77,7 +79,7 @@ Discussed Concepts
 * [Notebook](Day-2/Day2_06oct2020.ipynb)
 * [Salary_Data.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/Salary_Data.csv)
 * [Reliance.csv](Day-2/reliance.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/24110ef9b6d63482f3306a2dad9a379c25919fa5b9e011935de31a2d115aeed6)
 
 <!-----
 ### Day3 Multi Linear Regression and Polynomial Features (16/sep/2020)
