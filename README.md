@@ -24,7 +24,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 2. Don't give spaces in roll number or shorcut of your roll number
 3. Don't give spaces between rollnumber and name (only - single minus or hyphen character)
 4. Make sure roll number should match with the registered roll number
-5. Minimum **`120/150`** minutes should attend in **`150/180 minutes`** session with same login format
+5. Minimum **120 minutes to attend in 150 minutes** session
 
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/1YaaLzqz2ToxTK4ahioHIJ-Y4QrGXNxfvAkKv8xRmDJE/edit?usp=sharing)
 
@@ -81,19 +81,20 @@ Discussed Concepts
 * [Reliance.csv](Day-2/reliance.csv)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/24110ef9b6d63482f3306a2dad9a379c25919fa5b9e011935de31a2d115aeed6)
 
-<!-----
-### Day3 Multi Linear Regression and Polynomial Features (16/sep/2020)
+
+### Day3 Multi Linear Regression and Polynomial Features (07/Oct/2020)
 
 Discussed Concepts
 1. Multi Linear Regression for house price prediction of boston dataset
 2. Applying Polynomial Features for Salary prediction dataset
 
-* [Notebook](Day-3/Day3_16sep2020.ipynb)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/55fc3f89cfcf4a0809f90bf32fc7886386ef9653feccf6ac484af87beea8096a)
+* [Notebook](Day-3/Day3_07Oct2020.ipynb)
+* [Recorded  pending]()
 * [image1](Day-3/6_1_line.png)
 * [image2](Day-3/6_2_linePoly.png)
 * [image3](Day-3/mlconcepts_image5.png)
 
+<!-----
 ### Day4 KNN algorithm (17/sep/2020)
 
 Discussed Concepts
