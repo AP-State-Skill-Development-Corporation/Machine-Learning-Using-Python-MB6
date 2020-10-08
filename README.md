@@ -94,15 +94,17 @@ Discussed Concepts
 * [image2](Day-3/6_2_linePoly.png)
 * [image3](Day-3/mlconcepts_image5.png)
 
-<!-----
-### Day4 KNN algorithm (17/sep/2020)
+
+### Day4 KNN algorithm (08/Oct/2020)
 
 Discussed Concepts
-1. K-Nearest Neighbour Algorithm for iris dataset
+1. K-Nearest Neighbour Algorithm
 
-* [Notebook](Day-4/Day4_17sep2020.ipynb)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/3e0a3baf469aa4778238ed8969976652d4aba49ebcf821d9fe48288a67035a23)
+* [Notebook](Day-4/Day4_08Oct2020.ipynb)
+* [shirt.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/shirt.csv)
+* [Recorded Video pending]()
 
+<!-----
 ### Day5 Classification Algorithms (18/sep/2020)
 
 Discussed Concepts
