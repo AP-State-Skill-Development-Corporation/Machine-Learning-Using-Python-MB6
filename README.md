@@ -102,7 +102,7 @@ Discussed Concepts
 
 * [Notebook](Day-4/Day4_08Oct2020.ipynb)
 * [shirt.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/shirt.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/8fa3d184c1d6faa5a6e98ddc3dd4e310cae2a6b60f239d621d77694b3ed2b56b)
 
 <!-----
 ### Day5 Classification Algorithms (18/sep/2020)
