@@ -104,17 +104,18 @@ Discussed Concepts
 * [shirt.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/shirt.csv)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/8fa3d184c1d6faa5a6e98ddc3dd4e310cae2a6b60f239d621d77694b3ed2b56b)
 
-<!-----
-### Day5 Classification Algorithms (18/sep/2020)
+
+### Day5 Classification Algorithms (09/Oct/2020)
 
 Discussed Concepts
 1. Logistic Regression Algorithm
 2. Support Vector Machine
 
-* [Notebook](Day-5/Day5_18sep2020.ipynb)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/effa598a15abc99514da25e633b6b7797e3e250d335ec6ff23f085e73d3d7896)
+* [Notebook-1](Day-5/Day5_1_09Oct2020.ipynb)
+* [Notebook-2](Day-5/Day5_2_09Oct2020.ipynb)
+* [Recorded Video pending]()
 
-
+<!-----
 ### Day6 Decision Tree Algorithms (21/sep/2020)
 
 Discussed Concepts
