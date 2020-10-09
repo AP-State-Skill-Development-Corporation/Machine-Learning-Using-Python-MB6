@@ -113,7 +113,7 @@ Discussed Concepts
 
 * [Notebook-1](Day-5/Day5_1_09Oct2020.ipynb)
 * [Notebook-2](Day-5/Day5_2_09Oct2020.ipynb)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/b415b1675b720e6efb81cb00418db3f95839aa050f50a290236d2973595c4098)
 
 <!-----
 ### Day6 Decision Tree Algorithms (21/sep/2020)
