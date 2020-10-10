@@ -115,17 +115,17 @@ Discussed Concepts
 * [Notebook-2](Day-5/Day5_2_09Oct2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/b415b1675b720e6efb81cb00418db3f95839aa050f50a290236d2973595c4098)
 
-<!-----
-### Day6 Decision Tree Algorithms (21/sep/2020)
+
+### Day6 Decision Tree Algorithms (10/Oct/2020)
 
 Discussed Concepts
 1. Decision Tree classifier and Regressor Algorithm
 
-* [Notebook](Day-6/Day6_21sep2020.ipynb)
-* [headbrain.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/headbrain.csv)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/3845c01439bceda4dfc46bc8a401f197d32b7d902dbdfb8e301a161b187ff293)
+* [Notebook 1](Day-6/Day6_1_10Oct2020.ipynb)
+* [Notebook 2](Day-6/Day6_2_10Oct2020.ipynb)
+* [Recorded Video pending]()
 
-
+<!-----
 ### Day7 Random Forest Algorithms (22/sep/2020)
 
 Discussed Concepts
