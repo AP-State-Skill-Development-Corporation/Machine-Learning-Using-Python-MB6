@@ -119,7 +119,7 @@ Discussed Concepts
 ### Day6 Decision Tree Algorithms (10/Oct/2020)
 
 Discussed Concepts
-1. Decision Tree classifier and Regressor Algorithm
+1. Decision Tree
 
 * [Notebook 1](Day-6/Day6_1_10Oct2020.ipynb)
 * [Notebook 2](Day-6/Day6_2_10Oct2020.ipynb)
