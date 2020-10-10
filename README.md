@@ -123,7 +123,7 @@ Discussed Concepts
 
 * [Notebook 1](Day-6/Day6_1_10Oct2020.ipynb)
 * [Notebook 2](Day-6/Day6_2_10Oct2020.ipynb)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/1df0e11fddc01bc68d1461141a6fe8b149974ac5ec3e2360a3b5a929b12e6754)
 
 <!-----
 ### Day7 Random Forest Algorithms (22/sep/2020)
