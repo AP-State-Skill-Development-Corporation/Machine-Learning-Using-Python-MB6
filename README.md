@@ -122,17 +122,17 @@ Discussed Concepts
 * [Notebook 2](Day-6/Day6_2_10Oct2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/1df0e11fddc01bc68d1461141a6fe8b149974ac5ec3e2360a3b5a929b12e6754)
 
-<!-----
-### Day7 Random Forest Algorithms (22/sep/2020)
+
+### Day7 Random Forest Algorithms (12/Oct/2020)
 
 Discussed Concepts
 1. Random Forest Algorithm
 
-* [Notebook](Day-7/Day7_22sep2020.ipynb)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/f2b384ca6d038d150596828bb75eb0414dad29fe75b9d3d9f7c6e56c1d7e6d7e)
+* [Notebook](Day-7/Day7_12Oct2020.ipynb)
+* [Recorded Video pending]()
 
 
-
+<!-----
 ### Day8 Unsupervised Learning (23/sep/2020)
 
 Discussed Concepts
