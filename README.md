@@ -2,11 +2,7 @@
 # Machine-Learning-Using-Python
 
 This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
-<!---
-#### Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]]()
 
-#### Gotomeeting Link → [[Click Here to Join]](meetingLink) → Meeting Id → 
---->
 
 Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/738433397) → Meeting Id → 738433397
 
@@ -28,8 +24,9 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/1YaaLzqz2ToxTK4ahioHIJ-Y4QrGXNxfvAkKv8xRmDJE/edit?usp=sharing)
 
+#### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/12fe3qibrYrKoZjbrbvWDd6bJvPXtSHmHQuawPeSxh4Q/edit?usp=sharing)
+
 <!-----
-#### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/1KhUGwyc6ezrZ1hswLzTu67EVwohwW07omVNAtEWyk9M/edit?usp=sharing)
 ******************************
 Reference purpose follow this below things
 
