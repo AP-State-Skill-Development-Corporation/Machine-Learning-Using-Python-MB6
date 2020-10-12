@@ -129,7 +129,7 @@ Discussed Concepts
 1. Random Forest Algorithm
 
 * [Notebook](Day-7/Day7_12Oct2020.ipynb)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/7085c2c1d2a48a9807611388269f8b5bdb122cd5b98a8026edc651d0e003bdf7)
 
 
 <!-----
