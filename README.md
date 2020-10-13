@@ -132,16 +132,16 @@ Discussed Concepts
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/7085c2c1d2a48a9807611388269f8b5bdb122cd5b98a8026edc651d0e003bdf7)
 
 
-<!-----
-### Day8 Unsupervised Learning (23/sep/2020)
+
+### Day8 Unsupervised Learning (13/Oct/2020)
 
 Discussed Concepts
 1. K-Means Algorithm
 
-* [Notebook](Day-8/Day8_23sep2020.ipynb)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/ebca0ec8b25b563b2b965e4edf2315ddbff29aaa24436cb5b06439f8e7a8de74)
+* [Notebook](Day-8/Day8_13Oct2020.ipynb)
+* [Recorded Video pending]()
 
-
+<!-----
 ### Day9 Principal Component Analysis (24/sep/2020)
 
 Discussed Concepts
