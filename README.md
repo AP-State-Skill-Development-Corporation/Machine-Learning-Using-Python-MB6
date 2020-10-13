@@ -139,7 +139,7 @@ Discussed Concepts
 1. K-Means Algorithm
 
 * [Notebook](Day-8/Day8_13Oct2020.ipynb)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/5d30f88959c12fcb4f0d4d9bb75c5db31900ea6d8e7fdeefcb3361524a90891f)
 
 <!-----
 ### Day9 Principal Component Analysis (24/sep/2020)
