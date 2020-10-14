@@ -141,18 +141,16 @@ Discussed Concepts
 * [Notebook](Day-8/Day8_13Oct2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/5d30f88959c12fcb4f0d4d9bb75c5db31900ea6d8e7fdeefcb3361524a90891f)
 
-<!-----
-### Day9 Principal Component Analysis (24/sep/2020)
+
+### Day9 Principal Component Analysis (14/Oct/2020)
 
 Discussed Concepts
 1. Principal Component Analysis
-2. LabelEncoder,OneHotEncoder,get_dummies
-3. Saving model to pickle file
-4. connecting ML model with Flask application
+2. Saving model to pickle file
+3. connecting ML model with Flask application
 
-* [Notebook](Day-9/Day9_24sep2020.ipynb)
-* [Notebook2](Day-9/Day9_24sep2020Notebook2.ipynb)
-* [fruitModel.pkl](Day-9/fruitModel.pkl)
+* [Notebook](Day-9/Day9_14Oct2020.ipynb)
+* [Notebook2](Day-9/Day9_14Oct2020_notebook2.ipynb)
+* [fruits.pkl](Day-9/fruits.pkl)
 * [Fruits_dataset](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
-* [Recorded Video](https://transcripts.gotomeeting.com/#/s/eaf178502f10ee01ab2668f921d357f8f7abbfd971ede53ce6d3d4c499b679a1)
---->
+* [Recorded Video pending]()
