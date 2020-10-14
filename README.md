@@ -4,7 +4,6 @@
 This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 
 
-Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/738433397) → Meeting Id → 738433397
 
 #### ![prerequisite](Prerequisite.png)
 
@@ -153,4 +152,4 @@ Discussed Concepts
 * [Notebook2](Day-9/Day9_14Oct2020_notebook2.ipynb)
 * [fruits.pkl](Day-9/fruits.pkl)
 * [Fruits_dataset](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/c67ffd6ccc1a734f7a6c1ef73a3ef1bbd1e50c19bce9e7ba2c4147416992b108)
