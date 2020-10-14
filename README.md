@@ -150,7 +150,7 @@ Discussed Concepts
 3. connecting ML model with Flask application
 
 * [Notebook](Day-9/Day9_14Oct2020.ipynb)
-* [Notebook2](Day-9/Day9_10Oct2020_notebook2.ipynb)
+* [Notebook2](Day-9/Day9_14Oct2020_notebook2.ipynb)
 * [fruits.pkl](Day-9/fruits.pkl)
 * [Fruits_dataset](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
 * [Recorded Video pending]()
